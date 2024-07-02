@@ -63,3 +63,6 @@ This project is a smart home automation system developed using NodeMCU and Ardui
 1. __Power Up:__ Connect and power up the NodeMCU and Arduino Mega.
 2. __Mobile App:__ Open the mobile app, log in, and start controlling and monitoring the appliances.
 3. __Monitor Data:__ View real-time data from sensors and control appliances remotely.
+
+
+   # [Link To the Website.](https://hassiebb.github.io/Home-Sphere/index.html)
