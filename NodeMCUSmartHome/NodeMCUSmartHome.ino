@@ -3,18 +3,18 @@
 #include <Firebase_ESP_Client.h>
 
 // Replace with your WiFi credentials
-#define WIFI_SSID "m hassieb"
-#define WIFI_PASSWORD "11223344"
+#define WIFI_SSID "*********"
+#define WIFI_PASSWORD "*********"
 
 // Replace with your Firebase project API Key
-#define API_KEY "AIzaSyClX6E8RxJKTNVJdqRnOTWV6_-8Z-NBQRE"
+#define API_KEY "*********"
 
 // Replace with your user email and password
-#define USER_EMAIL "nodemcu@mail.com"
-#define USER_PASSWORD "nodemcupass"
+#define USER_EMAIL "*********"
+#define USER_PASSWORD "*********"
 
 // Replace with your Firebase Realtime Database URL
-#define DATABASE_URL "https://smarthome-d9eff-default-rtdb.firebaseio.com/"
+#define DATABASE_URL "*********"
 
 SoftwareSerial mySerial(D5, D6);  // RX, TX
 
